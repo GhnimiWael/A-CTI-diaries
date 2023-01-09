@@ -1,3 +1,9 @@
+<p align="center" width="100%">
+    <img width="100%"src="https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/52FmDYSAMPaywTwvx5WNrO/064026a3624963e69b520b0fb0c29d80/watchdogs1-game_overview-promo-001-cityisyourweapon.jpg"> 
+</p>
+
+
+
 # General CTI Feeds
 
 - Automated Alerts of DGA Domains - https://twitter.com/dgafeedalerts
