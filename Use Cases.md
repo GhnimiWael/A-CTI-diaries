@@ -13,6 +13,7 @@ Another CTI use case is Incident Response. In this scenario, an organization lev
 ## Links for analysis
 
 1. <a href="https://w43l.gitbook.io/cti-journey-or-cyber-threat-intelligence/case-study/water-dybbuk-group">Water Dybbuk Group </a>
+2. <a href="https://w43l.gitbook.io/cti-journey-or-cyber-threat-intelligence/case-study/moonlight-maze-back-to-the-future"> Moonlight Maze: Back To The Future </a>
 
 
 ## Consideration
