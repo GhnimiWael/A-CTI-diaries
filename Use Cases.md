@@ -13,3 +13,14 @@ Another CTI use case is Incident Response. In this scenario, an organization lev
 ## Links for analysis
 
 1. <a href="https://w43l.gitbook.io/cti-journey-or-cyber-threat-intelligence/case-study/water-dybbuk-group">Water Dybbuk Group </a>
+
+
+## Consideration
+Cyber Threat Intelligence (CTI) has several use cases, including:
+- Threat Detection and Prevention: CTI helps organizations detect and prevent potential cyber threats by providing real-time information about new and emerging threats
+- Vulnerability Assessment: CTI helps organizations assess their vulnerabilities to cyber threats and take necessary steps to secure their systems.
+- Incident Response: CTI provides valuable information during the incident response process, including details about the threat, the extent of the damage, and recommendations for remediation.
+- Compliance: CTI helps organizations meet regulatory requirements by providing the necessary data for compliance reporting.
+- Risk Management: CTI provides organizations with a comprehensive view of their cyber risk landscape, enabling them to make informed decisions about risk mitigation strategies.
+- Competitive Intelligence: CTI helps organizations stay ahead of the competition by providing insights into the cyber threat landscape and emerging trends.
+- Strategic Planning: CTI helps organizations make informed decisions about their security strategy by providing a comprehensive view of the cyber threat landscape.
