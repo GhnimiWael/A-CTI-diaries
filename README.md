@@ -12,7 +12,14 @@ The repository contains a variety of resources, including case studies, research
 
 Whether you're a seasoned CTI analyst or just starting out, "A CTI Diaries" provides a platform for knowledge sharing and collaboration. Join the community of CTI professionals and contribute to the advancement of the field by sharing your insights and experiences in this dynamic and ever-evolving area of cybersecurity.
 
-## Content 
+# Content 
+
+## CTI - Cyber Threa Intelligence
 
 1. <a href="https://github.com/GhnimiWael/CTI/blob/main/CTI%20Feeds.md"> CTI Feeds </a>
 2. <a href="https://github.com/GhnimiWael/CTI/blob/main/Use%20Cases.md"> CTI Use Cases </a>
+
+## Intelligence
+
+
+## Cyber Warfare
