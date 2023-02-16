@@ -20,6 +20,7 @@ Whether you're a seasoned CTI analyst or just starting out, "A CTI Diaries" prov
 2. <a href="https://github.com/GhnimiWael/CTI/blob/main/Use%20Cases.md"> CTI Use Cases </a>
 
 ## Intelligence
+1. <a href="https://github.com/GhnimiWael/A-CTI-diaries/tree/main/Intelligence/HUMINT"> HUMINT - Human Intelligence</a>
 
 
 ## Cyber Warfare
