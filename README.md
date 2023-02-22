@@ -26,4 +26,4 @@ Whether you're a seasoned CTI analyst or just starting out, "A CTI Diaries" prov
 ## Cyber Warfare
 
 ## Malwares
-
+1. <a href="https://github.com/GhnimiWael/A-CTI-diaries/tree/main/Malwares/Qakbot">Qakbot</a>
