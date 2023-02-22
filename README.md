@@ -24,3 +24,6 @@ Whether you're a seasoned CTI analyst or just starting out, "A CTI Diaries" prov
 
 
 ## Cyber Warfare
+
+## Malwares
+
