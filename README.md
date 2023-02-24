@@ -27,4 +27,6 @@ Whether you're a seasoned CTI analyst or just starting out, "A CTI Diaries" prov
 1. <a href="https://github.com/GhnimiWael/A-CTI-diaries/tree/main/Malwares/Qakbot">Qakbot</a>
 
 ## Cyber Warfare
+1. <a href="https://w43l.gitbook.io/cti-journey-or-cyber-threat-intelligence/cyber-warfare/edward-snowden-spies-and-the-law-bbc-documentary-2015"> Edward Snowden: Spies and the Law - BBC Documentary 2015 </a>
+
 
